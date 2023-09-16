@@ -5,4 +5,4 @@ $meja = array(
     array('handphone', 'earphone'),
     array('kue', 'minuman')
 );
-echo $meja[0][1]; // "pulpen"
+echo $meja[0][0]; // "pulpen"
